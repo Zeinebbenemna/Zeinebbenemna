@@ -16,6 +16,7 @@ and the data side (SQL, Power BI, Excel).</p>
 
 </div>
 
+---
 
 ## 💼 Experience highlights
 
@@ -32,16 +33,16 @@ and the data side (SQL, Power BI, Excel).</p>
 
 | Project | What it shows | Tools |
 |---|---|---|
-| [Maji Ndogo – Power BI dashboards](https://github.com/Zeinebbenemna/PowerBI_Project-) | Interactive dashboards on water access, queue times, well pollution and safety, with key insights for intervention priorities | Power BI |
+| [Maji Ndogo – Water Access Dashboard](https://github.com/Zeinebbenemna/PowerBI-Projects/tree/main/maji-ndogo-water-access) | 4-page report for decision-makers on water access, broken infrastructure, queues and crime; fixed population double-counting with DAX | Power BI, DAX, Power Query |
+| [Access to Drinking Water (2000–2020)](https://github.com/Zeinebbenemna/Excel-Projects/tree/main/alx-water-access) | Cleaning and analysis of WHO/UNICEF data: 2020 snapshot by income group, and 2000–2020 Annual Rates of Change by area and region (SDG 6) | Excel, Google Sheets |
 | [Maji Ndogo – SQL analysis](https://github.com/Zeinebbenemna/SQL_Project_ALX-) | Exploration and cleaning of a ~60,000-record survey database, including detection of misclassified contaminated wells | MySQL |
-| [Access to Drinking Water (2000–2020)](https://github.com/Zeinebbenemna/Excel_project) | Cleaning and analysis of WHO/UNICEF JMP data: annual rates of change, urban vs rural gaps, regional comparison (SDG 6) | Excel, Google Sheets |
 | [SQL data cleaning & analysis](https://github.com/Zeinebbenemna/SQL_Project) | Deduplication with window functions, standardisation, missing-value handling; restaurant order analysis | MySQL |
 
 ---
 
 ## 🛠️ Skills & tools
 
-**Data & BI:** SQL (MySQL) · Power BI (Power Query) · Excel (pivot tables, XLOOKUP) · Python · Streamlit · Data cleaning & quality · Dashboards & KPIs
+**Data & BI:** SQL (MySQL) · Power BI (Power Query, DAX) · Excel (COUNTIFS, INDEX/MATCH, pivot tables) · Python · Streamlit · Data cleaning & quality · Dashboards & KPIs
 
 **Business analysis:** Requirements gathering · Workshops · Root-cause analysis · User stories · Personas · UML · Market segmentation & benchmarking
 

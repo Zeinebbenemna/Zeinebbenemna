@@ -33,8 +33,8 @@ and the data side (SQL, Power BI, Excel).</p>
 
 | Project | What it shows | Tools |
 |---|---|---|
-| [Maji Ndogo – Water Access Dashboard](https://github.com/Zeinebbenemna/PowerBI-Projects/tree/main/maji-ndogo-water-access) | 4-page report for decision-makers on water access, broken infrastructure, queues and crime; fixed population double-counting with DAX | Power BI, DAX, Power Query |
-| [Access to Drinking Water (2000–2020)](https://github.com/Zeinebbenemna/Excel-Projects/tree/main/alx-water-access) | Cleaning and analysis of WHO/UNICEF data: 2020 snapshot by income group, and 2000–2020 Annual Rates of Change by area and region (SDG 6) | Excel, Google Sheets |
+| [Maji Ndogo – Water Access Dashboard](https://github.com/Zeinebbenemna/PowerBI_Project-/tree/main/maji-ndogo-water-access) | 4-page report for decision-makers on water access, broken infrastructure, queues and crime; fixed population double-counting with DAX | Power BI, DAX, Power Query |
+| [alx-water_access](https://github.com/Zeinebbenemna/Excel_Projects/tree/main/alx-water_access) | Cleaning and analysis of WHO/UNICEF data: 2020 snapshot by income group, and 2000–2020 Annual Rates of Change by area and region (SDG 6) | Excel, Google Sheets |
 | [Maji Ndogo – SQL analysis](https://github.com/Zeinebbenemna/SQL_Project_ALX-) | Exploration and cleaning of a ~60,000-record survey database, including detection of misclassified contaminated wells | MySQL |
 | [SQL data cleaning & analysis](https://github.com/Zeinebbenemna/SQL_Project) | Deduplication with window functions, standardisation, missing-value handling; restaurant order analysis | MySQL |
 

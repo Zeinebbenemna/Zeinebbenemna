@@ -3,7 +3,7 @@
 <h1>Hi, I'm Zeineb Ben Emna 👋</h1>
 
 <b>Data Analyst / Business Analyst</b><br>
-🎓 Business Analytics graduate – Tunis Business School (2026)<br>
+🎓 Business Analytics graduate - Tunis Business School (2026)<br>
 📍 Based in Paris, France<br>
 🔎 Open to Data Analyst / Business Analyst roles in Paris & Île-de-France (CDI, available now)<br>
 🌍 French · English · Arabic
@@ -33,10 +33,11 @@ and the data side (SQL, Power BI, Excel).</p>
 
 | Project | What it shows | Tools |
 |---|---|---|
-| [Maji Ndogo – Water Access Dashboard](https://github.com/Zeinebbenemna/PowerBI_Project-/tree/main/maji-ndogo-water-access) | 4-page report for decision-makers on water access, broken infrastructure, queues and crime; fixed population double-counting with DAX | Power BI, DAX, Power Query |
-| [alx-water_access](https://github.com/Zeinebbenemna/Excel_Projects/tree/main/alx-water_access) | Cleaning and analysis of WHO/UNICEF data: 2020 snapshot by income group, and 2000–2020 Annual Rates of Change by area and region (SDG 6) | Excel, Google Sheets |
-| [Maji Ndogo – SQL analysis](https://github.com/Zeinebbenemna/SQL_Project_ALX-) | Exploration and cleaning of a ~60,000-record survey database, including detection of misclassified contaminated wells | MySQL |
-| [SQL data cleaning & analysis](https://github.com/Zeinebbenemna/SQL_Project) | Deduplication with window functions, standardisation, missing-value handling; restaurant order analysis | MySQL |
+| [Maji Ndogo - SQL Investigation](https://github.com/Zeinebbenemna/SQL_Projects/tree/main/alx_maji_ndojo_project) | 4-part analysis of a 60,000-record water survey: data cleaning, crisis analysis, an audit that uncovered likely corruption, and a repair plan for 25,398 water sources | MySQL |
+| [Maji Ndogo - Water Access Dashboard](https://github.com/Zeinebbenemna/PowerBI_Project-/tree/main/maji-ndogo-water-access) | 4-page report for decision-makers on water access, broken infrastructure, queues and crime; fixed population double-counting with DAX | Power BI, DAX, Power Query |
+| [Access to Drinking Water (2000-2020)](https://github.com/Zeinebbenemna/Excel_Projects/tree/main/alx-water_access) | Cleaning and analysis of WHO/UNICEF data: 2020 snapshot by income group, and 2000-2020 Annual Rates of Change by area and region (SDG 6) | Excel, Google Sheets |
+
+🧪 **Practice projects:** [Tech layoffs data cleaning](https://github.com/Zeinebbenemna/SQL_Projects/tree/main/layoffs-data-cleaning) · [Restaurant orders analysis](https://github.com/Zeinebbenemna/SQL_Projects/tree/main/restaurant-orders-analysis)
 
 ---
 
